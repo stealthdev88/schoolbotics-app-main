@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "2228709816",
+    "project_id": "schoolbotics-d08cf",
+    "storage_bucket": "schoolbotics-d08cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2228709816:android:8175d3e92cae0e7df2874d",
+        "android_client_info": {
+          "package_name": "com.schoolbotics.teacher.staff"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFiAX4C9blSkvGH4KT3F7xE3pYjXeqJak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
